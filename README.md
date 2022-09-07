@@ -1,6 +1,6 @@
 # Assigment-3 (eduTech Hero)
 
-[Project Live Link](https://sabbir2809.github.io/)
+[Project Live Link](https://edutech-hero.netlify.app/)
 
 - Project Setup Done
 
